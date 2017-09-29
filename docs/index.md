@@ -1,6 +1,6 @@
 # Welcome to Stat 140 (Ins: Udani R.) 
 
-> Note to students: 
+> Note to students: You need to get a statcrunch account from <http://www.statcrunch.com> 
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
 
