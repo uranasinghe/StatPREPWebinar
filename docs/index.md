@@ -30,6 +30,5 @@ Tutorials are interactive web documents that instructors can use as in-class act
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [OLI](OLI.pdf)
-6. ![cartoon](CAP2017Registration.png)
-<stc img = "CAP2017Registration.png" width = '10%'>
+6. ![cartoon](CAP2017Registration.png) <stc img = "CAP2017Registration.png" width ="20" height="20">
   
